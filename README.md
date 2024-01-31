@@ -15,7 +15,7 @@ Soy un estudiante de desarrollo web frontend apasionado por la creación de expe
 
 #### 💬 Contáctame
 
-- LinkedIn: [Jhonatan (Agrega tu enlace)](https://www.linkedin.com/in/jhonatancarreazo/)
+- LinkedIn: [Jhonatan Carreazo](https://www.linkedin.com/in/jhonatancarreazo/)
 
 #### ⚡ Datos Curiosos
 
