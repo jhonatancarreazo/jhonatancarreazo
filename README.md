@@ -4,7 +4,7 @@ Soy un estudiante de desarrollo web frontend apasionado por la creación de expe
 
 #### 🔭 Proyectos Actuales 
 
-- Desarrollando un carrito de compras interactivo con JavaScript y SweetAlert2.
+- Desarrollando un carrito de compras interactivo con JavaScript y SweetAlert2.(https://github.com/jhonatancarreazo/Ethnos)
 - Explorando nuevas tecnologías en el desarrollo frontend.
 
 #### 🌱 Aprendiendo Actualmente
